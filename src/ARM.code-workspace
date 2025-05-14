@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../ARM"
+		},
+		{
+			"name": "ARM_Architecture",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"rcc.h": "c"
+		}
+	}
+}
